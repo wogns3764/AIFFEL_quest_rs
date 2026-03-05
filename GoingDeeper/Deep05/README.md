@@ -1,3 +1,4 @@
+https://colab.research.google.com/drive/1FCjPY58AS2M1_fdq6VQn8BR-klPs7OYL#scrollTo=LjHWGMdN_pdW
 # AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 코더의 이름을 작성하세요.
 - 리뷰어 : 리뷰어의 이름을 작성하세요.
